@@ -2,19 +2,22 @@
 <urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://bighit.co.in/</loc>
-    <lastmod>2025-10-16</lastmod>
+    <lastmod>2025-10-16T00:00:00+00:00</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://bighit.co.in/services.html</loc>
-    <lastmod>2025-10-16</lastmod>
+    <lastmod>2025-10-16T00:00:00+00:00</lastmod>
+    <priority>0.9</priority>
   </url>
   <url>
     <loc>https://bighit.co.in/portfolio.html</loc>
-    <lastmod>2025-10-16</lastmod>
+    <lastmod>2025-10-16T00:00:00+00:00</lastmod>
+    <priority>0.9</priority>
   </url>
   <url>
     <loc>https://bighit.co.in/contact.html</loc>
-    <lastmod>2025-10-16</lastmod>
+    <lastmod>2025-10-16T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
   </url>
 </urlset>
